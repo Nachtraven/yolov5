@@ -1,3 +1,13 @@
+# YOLO v5 For for Digit detection
+
+### Repo intended for detecting digits in mobile phone photos of an analog Landys & Gyr power meter 
+
+
+### Forked from YOLO v5 - repo bellow
+
+
+#
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
