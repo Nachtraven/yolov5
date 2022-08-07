@@ -2,7 +2,10 @@
 
 Repo intended for detecting digits in mobile phone photos of an analog Landys & Gyr power meter. Project was successful with consumption being graphed over a 1y period.
 
-![alt text](https://github.com/nachtraven/yolov5/blob/master/simple_digit_detection_demo.png?raw=true)
+Partially trained bad example:
+
+![Partially trained bad example](simple_digit_detection_demo.png?raw=true)
+
 
 Trained on manually annotated images from Roboflow
 # 
