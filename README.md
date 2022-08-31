@@ -1,8 +1,8 @@
 # YOLO v5 For for Digit detection
 
-Repo intended for detecting digits in mobile phone photos of an analog Landys & Gyr power meter. Project was successful with consumption being graphed over a 1y period.
+Repo intended for detecting digits in mobile phone photos of an analog Landys & Gyr power meter. Project was successful with consumption being graphed over a 1y period. Used as tesbed for RoboFlow & online annotation
 
-Partially trained bad example:
+Partially trained example:
 
 ![Partially trained bad example](simple_digit_detection_demo.png?raw=true)
 
@@ -11,14 +11,6 @@ Trained on manually annotated images from Roboflow
 # 
 
 ### Forked from YOLO v5 - repo bellow
-## .
-## .
-## .
-## .
-## .
-## .
-## .
-## .
 ## .
 
 #
