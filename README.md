@@ -1,6 +1,6 @@
 # YOLO v5 For for Digit detection
 
-Repo intended for detecting digits in mobile phone photos of an analog Landys & Gyr power meter. Project was successful with consumption being graphed over a 1y period. Used as tesbed for RoboFlow & online annotation
+Repo intended for detecting digits in mobile phone photos of an analog Landys & Gyr power meter. Project was successful with consumption being graphed over a 1y period. Used as tesbed for RoboFlow [Dataset](https://app.roboflow.com/test-lnqpo/power_meter/10) & online annotation 
 
 Partially trained example:
 
